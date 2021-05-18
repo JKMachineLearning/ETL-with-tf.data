@@ -12,6 +12,8 @@ Dans cette série de didacticiels, je vous montre quelques différentes manière
 
 À vous de faire le choix de la méthode qui répond le mieux à votre besoin.
 
+## Dataset
+`sh download.sh`
 
-## Auteur
+---
 *Je suis Joseph Konka, Data Scientist Junior chez Rintio. Contactez-moi sur joseph.kakone@gmail.com ou sur [LinkedIn](https://www.linkedin.com/in/joseph-koami-konka) ou encore sur [Facebook](https://web.facebook.com/josephkonka1999). Au plaisir d'échanger avec vous !*
